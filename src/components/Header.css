@@ -1,0 +1,42 @@
+.header {
+    height: 75px;
+    align-items: center;
+}
+.znak {
+    width: 35px;
+    height: 35px;
+    background-color: #C87B5E;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+}
+.baglamaiconu {
+    position: absolute;
+    right: 20px;
+    top: 40px;
+    font-size: 45px;
+}
+.menyubars {
+    font-size: 35px;
+}
+.mobile-links {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 60vh;
+}
+.mobile-links a {
+    margin-bottom: 30px;
+}
+@media(max-width:576px) {
+    .navbar-left, .navbar-right {
+        display: none !important;
+    }
+}
+@media(min-width:768px) {
+.menyubars {
+    display: none;
+}
+}

@@ -1,0 +1,18 @@
+.curated-section h4 {
+    font-size: 23px;
+    font-weight: 700;
+}
+.curated-section p {
+    background-color: #fff !important;
+    font-size: 15px;
+    color: #4F463F;
+}
+@media(min-width:576px) {
+    .curated-section h4 {
+        font-size: 33px;
+        font-weight: 700;
+    }   
+    .curated-section p {
+        font-size: 18px;
+    }
+}

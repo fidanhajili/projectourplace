@@ -1,0 +1,38 @@
+footer {
+    background-color: #6C674D;
+}
+.footer {
+    padding: 100px 0 114px;
+}
+.footer a {
+    color: rgb(245, 241, 233, .6);
+    text-decoration: none;
+    display: flex;
+    padding: 7px 0;
+}
+.footer img {
+    margin-top: 30px;
+    margin-right: 10px;
+}
+.footer h6 {
+    color: #fff;
+}
+.newsletter {
+    background-color: #fff;
+    display: flex;
+    justify-content: space-between;
+margin: 40px 0;
+}
+.footer h5 {
+    color: #fff;
+}
+.newsletter input {
+    width: 92%;
+    padding: 8px 0;
+    border: none;
+}
+.newsletter button {
+    background-color: #fff;
+    border: transparent;
+    padding: 5px;
+}
