@@ -26,7 +26,7 @@ const ContactForms: React.FC = () => {
       emailjs
         .send(
           'service_bqzvvw5', // EmailJS Dashboard'dan aldığınız servis ID
-          'template_nr8w92p', // Şablon ID'niz
+          'template_s4hkrky', // Şablon ID'niz
           {
             from_name: values.name,
             from_email: values.email,

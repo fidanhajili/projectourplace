@@ -30,6 +30,7 @@ margin: 40px 0;
     width: 92%;
     padding: 8px 0;
     border: none;
+    outline: none;
 }
 .newsletter button {
     background-color: #fff;
