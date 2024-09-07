@@ -1,5 +1,5 @@
 import React from 'react'
-import './introduction.css'
+import './Introduction.css'
 import { ReactTyped } from "react-typed";
 
 const Introduction:React.FC = () => {
